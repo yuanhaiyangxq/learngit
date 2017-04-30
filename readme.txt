@@ -5,4 +5,4 @@ Git tracks changes of files.
 my stupid boss still prefer vsn.
 my stupid boss still prefer vsn.
 Creating a new branch is quick.
-tttt
+creating a branch is quick AND simple.
