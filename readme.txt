@@ -9,3 +9,4 @@ creating a branch is quick and simple.
 yhy is a handsome man.
 xq is a pretty girl.
 fix issue-001.
+git stash pop.
